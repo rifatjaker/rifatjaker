@@ -1,1 +1,11 @@
-Full-stack web developer | 10+ years | ERP Solution | SMS Services With API | Customize Software Solution | Dynamic & Static Website Development | RESTful API Services | HR Payroll | IoT Services
+AWS、
+GCP, 
+CloudRUN、
+CloudSQL、
+Terraform、
+React、
+TypeScript、
+Go、
+GRPC、
+CursorAI、
+ZOOM
